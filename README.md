@@ -14,17 +14,14 @@ I am a tech enthusiast specializing in:
 ## 📂 Featured Projects
 
 ### 1. [FPGA_AES_Project](https://github.com/your-username/project-1)
-![Project 1](https://your-project-image-url.com/project1.jpg)
 - **Technologies**: FPGA/VHDL.
 - **Description**: Focused on ensuring the security of data communication through the implementation of the AES algorithm on an FPGA.
 
 ### 2. [Access control | Raspberry pi](https://github.com/your-username/project-2)
-![Project 2](https://your-project-image-url.com/project2.jpg)
 - **Technologies**: Python, FastAPI, Raspberry pi 4, Arduino UNO.
 - **Description**: User access control using RFID with a visual interface on a web server.
 
 ### 3. [Online music store prototype - Data Bases and web technologies](https://github.com/your-username/project-3)
-![Project 3](https://your-project-image-url.com/project3.jpg)
 - **Technologies**: MySQL, PHP, HTML, CSS, Javascript.
 - **Description**: Prototype of an inventory management system and online store for musical instruments.
 
