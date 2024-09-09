@@ -13,11 +13,11 @@ I am a tech enthusiast specializing in:
 
 ## 📂 Featured Projects
 
-### 1. [FPGA_AES_Project](https://github.com/your-username/project-1)
+### 1. [FPGA_AES_Project](https://github.com/TE2003B-601-AES)
 - **Technologies**: FPGA/VHDL.
 - **Description**: Focused on ensuring the security of data communication through the implementation of the AES algorithm on an FPGA.
 
-### 2. [Access control | Raspberry pi](https://github.com/your-username/project-2)
+### 2. [Access control | Raspberry pi](https://github.com/alexaGonLuc16/access-control-system-raspberry)
 - **Technologies**: Python, FastAPI, Raspberry pi 4, Arduino UNO.
 - **Description**: User access control using RFID with a visual interface on a web server.
 
