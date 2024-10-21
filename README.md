@@ -21,10 +21,16 @@ I am a tech enthusiast specializing in:
 - **Technologies**: Python, FastAPI, Raspberry pi 4, Arduino UNO.
 - **Description**: User access control using RFID with a visual interface on a web server.
 
-### 3. [Online music store prototype - Data Bases and web technologies](https://github.com/your-username/project-3)
-- **Technologies**: MySQL, PHP, HTML, CSS, Javascript.
-- **Description**: Prototype of an inventory management system and online store for musical instruments.
+### 3. [Music File Manager - Data Structures/OOP](https://github.com/alexaGonLuc16/PlayListPOOject.git)
 
+- **Technologies**: C++
+- **Description**: Song file data manager system that implements efficient search functions using filters, as well as sorting with appropriate methods for presenting the data.
+
+### 4. [Memory Game Developed in Python - Control Structures]([https://github.com/alexaGonLuc16/PlayListPOOject.git](https://github.com/alexaGonLuc16/MemoryGame.git))
+
+- **Technologies**: Python
+- **Description**:  Console-based memory matching game, applying key control structures and randomization functions in Python.
+  
 ## 📫 Contact
 
 I am always open to new opportunities and collaborations. You can contact me through:
