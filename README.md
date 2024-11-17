@@ -26,7 +26,7 @@ I am a tech enthusiast specializing in:
 - **Technologies**: C++
 - **Description**: Song file data manager system that implements efficient search functions using filters, as well as sorting with appropriate methods for presenting the data.
 
-### 4. [Memory Game Developed in Python - Control Structures]([https://github.com/alexaGonLuc16/PlayListPOOject.git](https://github.com/alexaGonLuc16/MemoryGame.git))
+### 4. [Memory Game Developed in Python - Control Structures](https://github.com/alexaGonLuc16/MemoryGame.git))
 
 - **Technologies**: Python
 - **Description**:  Console-based memory matching game, applying key control structures and randomization functions in Python.
