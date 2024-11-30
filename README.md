@@ -13,20 +13,24 @@ I am a tech enthusiast specializing in:
 
 ## 📂 Featured Projects
 
-### 1. [FPGA_AES_Project](https://github.com/TE2003B-601-AES)
+### [FPGA_AES_Project](https://github.com/TE2003B-601-AES)
 - **Technologies**: FPGA/VHDL.
 - **Description**: Focused on ensuring the security of data communication through the implementation of the AES algorithm on an FPGA.
 
-### 2. [Access control | Raspberry pi](https://github.com/alexaGonLuc16/access-control-system-raspberry)
+### [Access control | Raspberry pi](https://github.com/alexaGonLuc16/access-control-system-raspberry)
 - **Technologies**: Python, FastAPI, Raspberry pi 4, Arduino UNO.
 - **Description**: User access control using RFID with a visual interface on a web server.
 
-### 3. [Music File Manager - Data Structures/OOP](https://github.com/alexaGonLuc16/PlayListPOOject.git)
+### [CRUD Application | Java & MySQL/OOP](https://github.com/alexaGonLuc16/piramix_Hoteles_java-SQL.git)
+- **Technologies**: Java, MySQL, Swing.
+- **Description**: A desktop application that implements a CRUD system for managing user records, leveraging a MySQL database and a user-friendly interface built with Swing.
+
+### [Music File Manager - Data Structures/OOP](https://github.com/alexaGonLuc16/PlayListPOOject.git)
 
 - **Technologies**: C++
 - **Description**: Song file data manager system that implements efficient search functions using filters, as well as sorting with appropriate methods for presenting the data.
 
-### 4. [Memory Game Developed in Python - Control Structures](https://github.com/alexaGonLuc16/MemoryGame.git)
+### [Memory Game Developed in Python - Control Structures](https://github.com/alexaGonLuc16/MemoryGame.git)
 
 - **Technologies**: Python
 - **Description**:  Console-based memory matching game, applying key control structures and randomization functions in Python.
